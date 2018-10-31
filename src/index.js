@@ -1,3 +1,6 @@
-import sayHello from './myModule';
+// index.js
 
-sayHello();
+import sayHello, {saySomethingElse} from './myModule'
+
+sayHello()
+saySomethingElse()
