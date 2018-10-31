@@ -1,3 +1,3 @@
-import bar from './bar';
+import sayHello from './myModule';
 
-bar();
+sayHello();
